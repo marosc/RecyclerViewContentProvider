@@ -1,8 +1,4 @@
 # RecyclerViewContentProvider
-## + ContentProvider for data from SQLite
-## + SearchView to add data
-## + swipe to dismiss (direction depending)
-## + "Undo" floating Action Button
 
 For education purposes I give to you example demo how to implement :
 

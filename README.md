@@ -1,30 +1,27 @@
-# InfiniteRecycleView
+# RecyclerViewContentProvider
+## + ContentProvider for data from SQLite
+## + SearchView to add data
 ## + swipe to dismiss (direction depending)
 ## + "Undo" floating Action Button
 
 For education purposes I give to you example demo how to implement :
 
   - **infinite RecycleView**
+  - **ContentProvider for data from SQLite**
+  - **SearchView to add data**
   - **swipe to dismiss (direction depending)**
   - **"Undo" floating Action Button**
-  - 
+   
+  
 ### Version
 1.0
-
-### Tech
-
-InfiniteRecycleView uses a number of android library to work properly:
-* **com.android.support:design:22.2.1**
-* **com.android.support:recyclerview-v7:22.2.1**
-* **com.android.support:support-v4:22.2.1**
-
-And of course InfiniteRecycleView itself is open source with a [public repository](https://github.com/marosc/infiniteRecycleView) on GitHub.
 
 ### Installation
 You need Git to download repository, or download ZIP archive
 
 ```sh
-$ git clone [git-repo-url] infiniterecycleview
+$ git clone [git-repo-url] RecyclerViewContentProvider
+
 ```
 
 You need Android SDK and Android Studio (or Eclipse ADT, ...) to build project.
